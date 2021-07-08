@@ -734,6 +734,10 @@ input, select, textarea {
 			object-position: 0 40%;
 		}
 
+		#thankyou .image.main img {
+			object-position: 0 50%;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
