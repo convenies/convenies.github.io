@@ -1474,10 +1474,12 @@ input, select, textarea {
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
+			
+
+			#header .logo img {
+				width: 180px;
+				margin: 0 auto;
+				text-align: center;
 			}
 
 				#header .logo .icon:before {
